@@ -42,6 +42,8 @@ async function run() {
 const Database = client.db('Notes')
 const User = Database.collection('User')
 
+// Registration 
+
 
 // End server
     // Send a ping to confirm a successful connection
